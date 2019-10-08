@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "G:\\DotNet3\\FakeApi\\FakeApi\\FakeApi.csproj": {}
+    "G:\\DotNet3\\FakeApi\\FakeApi.csproj": {}
   },
   "projects": {
-    "G:\\DotNet3\\FakeApi\\FakeApi\\FakeApi.csproj": {
+    "G:\\DotNet3\\FakeApi\\FakeApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "G:\\DotNet3\\FakeApi\\FakeApi\\FakeApi.csproj",
+        "projectUniqueName": "G:\\DotNet3\\FakeApi\\FakeApi.csproj",
         "projectName": "FakeApi",
-        "projectPath": "G:\\DotNet3\\FakeApi\\FakeApi\\FakeApi.csproj",
+        "projectPath": "G:\\DotNet3\\FakeApi\\FakeApi.csproj",
         "packagesPath": "C:\\Users\\rezwan.rafiq\\.nuget\\packages\\",
-        "outputPath": "G:\\DotNet3\\FakeApi\\FakeApi\\obj\\",
+        "outputPath": "G:\\DotNet3\\FakeApi\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
